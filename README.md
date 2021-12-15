@@ -34,7 +34,7 @@
       - id primary
       - ゲーム名(name):string
       - カテゴリ名(kategory):string
-  -　wordwolfs(お題)
+  -　　wordwolfs(お題)
     -　 columns
       -　 id primary
       - 多数派お題(major_theme):string → index にして uniqueキーにする 「theme」
