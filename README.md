@@ -37,8 +37,7 @@
       
   - wordwolfs(お題)
     - columns
-    
-      -　 idprimary
+      - id primary 
       - 多数派お題(major_theme):string → index にして uniqueキーにする 「theme」
       - 少数派お題(minor_theme):string → index にして　uniqueキーにする  「theme」
       - 多数派の人数(major_count):integer
